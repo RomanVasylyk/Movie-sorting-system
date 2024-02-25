@@ -1,0 +1,3 @@
+/Users/roman/Desktop/C/proekt/cmake-build-debug/CMakeFiles/proekt.dir
+/Users/roman/Desktop/C/proekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roman/Desktop/C/proekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

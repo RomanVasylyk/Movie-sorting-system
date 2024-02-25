@@ -1,0 +1,10 @@
+/Users/roman/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/roman/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/roman/Desktop/C/proekt -B /Users/roman/Desktop/C/proekt/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.0.14000029
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (10.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/roman/Desktop/C/proekt/cmake-build-debug
